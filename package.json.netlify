@@ -1,0 +1,16 @@
+{
+  "name": "docafrik-netlify",
+  "version": "1.0.0",
+  "description": "DocAfrik - Configuration pour déploiement Netlify",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
