@@ -71,6 +71,3 @@
 [functions]
   directory = "netlify/functions"
   node_bundler = "esbuild"
-
-# Plugin pour Next.js
-[[plugins]]
